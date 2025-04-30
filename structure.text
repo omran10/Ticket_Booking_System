@@ -1,0 +1,19 @@
+- Home (الرئيسية)
+  ├── Events List (قائمة الفعاليات / الرحلات)
+  │     └── Event Details (تفاصيل الفعالية)
+  │            └── Seat Selection + Booking (اختيار الكرسي والحجز)
+  │                  └── Confirm Booking (تأكيد وحفظ الحجز)
+  │                        └── Download Ticket (تحميل التذكرة PDF) لو لقينا وقت نعملها 
+  ├── Offers (أكواد الخصم والعروض)
+
+- Login / Register (تسجيل الدخول أو إنشاء حساب)
+
+- My Bookings (حجوزاتي السابقة)
+  ├── View Booking Details
+  ├── Download Ticket Again
+  └── Cancel Booking (إن وجد)
+
+- Admin Panel (لوحة تحكم الأدمن)
+  ├── Manage Events (إضافة / تعديل / حذف فعاليات)
+  ├── View Bookings (عرض الحجوزات)
+  ├── Manage Users (تعديل أو حذف حسابات المستخدمين)
